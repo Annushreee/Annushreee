@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @Annushreee<br>👀 I’m interested in problem solving & coding<br>🌱 I’m currently learning Data structures & algorithms<br>💞️ I’m looking to collaborate on internships
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Anushree Kekapure](https://www.linkedin.com/in/anushree-kekapure-42a85a289/)) 
 
