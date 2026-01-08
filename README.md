@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Annushreee<br>👀 I’m interested in problem solving & coding<br>🌱 I’m currently learning Data structures & algorithms<br>💞️ I’m looking to collaborate on internships
+👋 Hi, I’m @Annushreee<br>👀 I’m interested in problem solving & coding<br>🌱 I’m currently learning Data structures & algorithms<br>
 
 
 ## 🌐 Socials:
